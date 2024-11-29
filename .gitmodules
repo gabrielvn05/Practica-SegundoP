@@ -1,0 +1,3 @@
+[submodule "proyect-cli"]
+	path = proyect-cli
+	url = https://github.com/gabrielvn05/Practica-SegundoP.git
